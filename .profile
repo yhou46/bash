@@ -3,7 +3,6 @@
 alias ls='ls --color'
 
 #======color==========
-[ "$GROUP" ] && export GROUP
 stty sane # should normalize backspace issues?
 #GREEN="$(tput setaf 2)"
 #RESET="$(tput sgr0)"
