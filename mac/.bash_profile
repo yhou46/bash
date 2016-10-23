@@ -7,7 +7,7 @@
 # All colors
 GREEN="\[$(tput setaf 2)\]"
 RED="\[$(tput setaf 1)\]"
-PURPLE="\[$(tput setaf 207)\]"
+PURPLE="\[$(tput setaf 5)\]"
 
 # My version of system prompt
 RESET="\[$(tput sgr0)\]"
