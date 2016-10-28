@@ -17,6 +17,7 @@ export PS1="${GREEN}\u@ ${PURPLE}\h:${GREEN}\w $ ${RESET}"
 
 # Alias
 alias ls='ls -G'
+alias rm='rm -i'
 
 # Path
 export PATH="/usr/local/mysql/bin:$PATH"
